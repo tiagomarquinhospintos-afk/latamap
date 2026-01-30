@@ -576,7 +576,7 @@ export const colombia: LeaderNoId[] = [
 	},
 	{
 		countryId,
-		name: `Gustavo Petro`,
+		name: `ustavo Petro`,
 		party: `Historic Pact`,
 		leaning: leanings.LEFT,
 		tookOffice: `7 August 2022`,
